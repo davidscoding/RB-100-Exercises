@@ -1,0 +1,22 @@
+# Variable Scope
+
+1) 7
+
+2) 7
+
+3) 7
+
+4) Xy-zy
+
+5) Xyzzy
+
+6) Error - a is never defined
+
+7) 3
+
+8) undefined variable - outside variables can be mutably reassigned from
+within blocks, but can
+
+9) 7
+
+10) Error - a is not defined within scope of the method

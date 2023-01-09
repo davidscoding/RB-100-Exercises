@@ -1,0 +1,36 @@
+# Documentation
+
+1)
+
+https://docs.ruby-lang.org/en/master/index.html
+
+2)
+
+https://docs.ruby-lang.org/en/master/syntax/control_expressions_rdoc.html#label-while+Loop
+
+3)
+
+nil unless a break is used
+
+4)
+
+break returns the value given to it as an argument
+
+5)
+
+You can add underscores to break it up without modifying the actual value
+
+6)
+
+:David
+
+7)
+
+https://docs.ruby-lang.org/en/master/String.html
+
+
+8)
+
+Strings can be right justified with rjust()
+
+9)
